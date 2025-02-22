@@ -1,5 +1,7 @@
 # MEMZ Nyan MBR
 
+More about this on my blog : https://blog.0wl.sg 
+
 ## Debugging
 I have extracted the bootloader portion of the malware and would want to debug the initial bootloader.
 
